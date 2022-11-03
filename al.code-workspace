@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "DemoApp"
+                    },
+                    {
+                        "path":  "DemoApp.Test"
                     }
                 ],
     "settings":  {
